@@ -1,0 +1,7 @@
+usage: response-mocker [-h] [-v]
+
+mock response body and status code
+
+options:
+  -h, --help     show this help message and exit
+  -v, --version  show program's version number and exit

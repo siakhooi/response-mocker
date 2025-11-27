@@ -1,0 +1,2 @@
+usage: response-mocker [-h] [-v]
+response-mocker: error: unrecognized arguments: -p
